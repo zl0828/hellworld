@@ -1,11 +1,11 @@
 <?php 
  
-namespace Hello; 
+namespace hello; 
  
 class SayHello
 {
     public static function world()
     {
-        return 'Hello World!';
+        return 'Hello World!Shu Guo! i am coming!';
     }
 }
